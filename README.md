@@ -12,8 +12,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=echoquill&border=DA8FF7&background=45%2C000000%2C000000&dates=D052FF&stroke=D466F7&currStreakNum=8229FF&excludeDaysLabel=8229FF&fire=EC08FF&ring=A361FF&sideNums=DA8FF7&currStreakLabel=DA8FF7&sideLabels=DA8FF7)](https://git.io/streak-stats)
 </br>
-discord :- EchoQuill
-reddit :- u/-dimlight
+<p>discord :- EchoQuill</p>
+<p>reddit :- u/-dimlight</p>
 </div>
 
 
