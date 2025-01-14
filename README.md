@@ -8,9 +8,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EchoQuill&title_color=8229ff&icon_color=a361ff&text_color=8229ff&bg_color=000000&&show_icons=true&border_color=da8ff7&count_private=true&include_all_commits=true)
 
-[![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoQuill&layout=compact&title_color=8229ff&icon_color=DA8FF7&text_color=DA8FF7&bg_color=000000&border_color=da8ff7)](https://github.com/anuraghazra/github-readme-stats)
+![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoQuill&layout=compact&title_color=8229ff&icon_color=DA8FF7&text_color=DA8FF7&bg_color=000000&border_color=da8ff7)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=echoquill&border=DA8FF7&background=45%2C000000%2C000000&dates=D052FF&stroke=D466F7&currStreakNum=8229FF&excludeDaysLabel=8229FF&fire=EC08FF&ring=A361FF&sideNums=DA8FF7&currStreakLabel=DA8FF7&sideLabels=DA8FF7)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=echoquill&border=DA8FF7&background=45%2C000000%2C000000&dates=D052FF&stroke=D466F7&currStreakNum=8229FF&excludeDaysLabel=8229FF&fire=EC08FF&ring=A361FF&sideNums=DA8FF7&currStreakLabel=DA8FF7&sideLabels=DA8FF7)
 </br>
 <p>discord :- EchoQuill</p>
 <p>reddit :- u/-dimlight</p>
