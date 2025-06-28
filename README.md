@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋, welcome to my github profile :>
+### Hi there <img src='https://cdn.discordapp.com/emojis/1184599007629152336.gif' width='25' />
 
 ---
 
@@ -14,21 +14,6 @@
 </br>
 <p>discord :- EchoQuill</p>
 <p>reddit :- u/-dimlight</p>
+<p> <img src='https://cdn.discordapp.com/emojis/1282748597665796190.gif' width='25' />  Writing codes for the most random features</p>
+<p>Currently focusing on OwO-Dusk <img src='https://cdn.discordapp.com/emojis/905539118694563840.gif' width='25' /></p>
 </div>
-
-
-
-<!--
-**EchoQuill/EchoQuill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
