@@ -8,7 +8,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EchoQuill&title_color=8229ff&icon_color=a361ff&text_color=8229ff&bg_color=000000&&show_icons=true&border_color=da8ff7&count_private=true&include_all_commits=true)
 
-![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoQuill&layout=compact&title_color=8229ff&icon_color=DA8FF7&text_color=DA8FF7&bg_color=000000&border_color=da8ff7)
+[![Language Usage](https://github-stats-extended.vercel.app/api/top-langs?username=EchoQuill&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=EchoQuill&layout=compact&langs_count=4&theme=midnight-purple)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=echoquill&border=DA8FF7&background=45%2C000000%2C000000&dates=D052FF&stroke=D466F7&currStreakNum=8229FF&excludeDaysLabel=8229FF&fire=EC08FF&ring=A361FF&sideNums=DA8FF7&currStreakLabel=DA8FF7&sideLabels=DA8FF7)
 </br>
