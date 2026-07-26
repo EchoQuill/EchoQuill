@@ -6,7 +6,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=EchoQuill&title_color=8229ff&icon_color=a361ff&text_color=8229ff&bg_color=000000&&show_icons=true&border_color=da8ff7&count_private=true&include_all_commits=true)
+![Github stats](https://github-stats-extended.vercel.app/api?username=EchoQuill&title_color=8229ff&icon_color=a361ff&text_color=8229ff&bg_color=000000&&show_icons=true&border_color=da8ff7&count_private=true&include_all_commits=true)
 
 [![Language Usage](https://github-stats-extended.vercel.app/api/top-langs?username=EchoQuill&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=EchoQuill&layout=compact&langs_count=4&theme=midnight-purple)
 
